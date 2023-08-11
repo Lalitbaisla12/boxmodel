@@ -1,0 +1,82 @@
+body {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.main {
+    height: 435px;
+    width:  600px;
+    border: 2px solid red;
+}
+.box {
+    display: flex;
+    height: 45px;
+    width: 550px;
+    border: 2px solid red;
+    margin-top: 30px;
+    font-size: 35px;
+    padding-top: 1px;
+    font-weight: bold;
+    align-content: center;
+    margin-left: 21px;
+    padding-left: 8px;
+}
+.data{
+    
+    height: 120px;
+    width: 550px;
+    border: 2px solid red;
+    margin-top: 30px;
+    font-size: auto;
+    padding-top: 1px;
+    
+    margin-left: 21px;
+    padding-left: 8px;
+}
+.double {
+    height: 100px;
+    width: 550px;
+    border: 2px solid red;
+    margin-top: 30px;
+    margin-left: 21px;
+    padding-left: 8px; 
+}
+.a{
+    display: flex;
+    margin-top: 8px;
+    border: 2px solid red;
+    height: 38px;
+    width: 535px;
+    margin-right: 2px;
+    align-content: center;
+    
+}
+.b{
+    border: 2px solid red;
+    height: 38px;
+    width: 535px;
+    margin-right: 1px;
+}
+.con{
+    margin-left: 5px;
+    margin-top: 7px;
+}
+.last {
+   display: flex;
+   height: 100px;
+   width: 550px;
+   margin-top: 30px;
+   margin-left: 21px;
+   padding-left: 8px; 
+}
+.button{
+    height: 20px;
+    width: 50px;
+    border: 2px solid red;
+    background-color: #EEEEEE;
+}
+.link {
+    height: 20px;
+    width: 45px;
+    border: 2px solid red;
+}
